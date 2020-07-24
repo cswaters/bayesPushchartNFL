@@ -1,12 +1,12 @@
 Package: bayesPushchartNFL
-Title: An Amazing Shiny App
+Title: Estimate Push rates for NFL spreads
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "firstname",
-           family = "lastname",
+    person(given = "Mr",
+           family = "Vig",
            role = c("aut", "cre"),
-           email = "your@email.com")
-Description: What the package does (one paragraph).
+           email = "vyigrys@protonmail.com")
+Description: Estimate NFL pushrates for spreads using empirical bayes.
 License: MIT + file LICENSE
 Imports: 
     config,
